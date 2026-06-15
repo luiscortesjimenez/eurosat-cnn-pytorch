@@ -1,0 +1,13 @@
+
+# SpecStory internal files
+/debug/
+/statistics.json
+.specstory/
+
+# Cursor files
+.cursorindexingignore
+.cursor/
+
+# Project files
+EuroSAT/
+venv/
